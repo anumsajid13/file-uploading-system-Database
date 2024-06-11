@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-darkBlue {
+  background-color: #1a1a2e;
+}
+
+.bg-darkPanel {
+  background-color: #16213e;
+}
+
+.border-lightBlue {
+  border-color: #0f3460;
+}
+
+.text-lightBlue {
+  color: #0f3460;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.hidden {
+  display: none;
+}
